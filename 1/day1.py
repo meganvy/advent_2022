@@ -1,3 +1,5 @@
+# apologies in advance i'm waiting until a weekend to clean up / make helpers for reading inputs
+
 import os
 
 def part_one():
