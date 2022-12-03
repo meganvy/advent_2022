@@ -49,5 +49,5 @@ def part_two():
                 
 
 
-# print(part_one())
+print(part_one())
 print(part_two())

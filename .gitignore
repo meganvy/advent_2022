@@ -1,0 +1,3 @@
+# Advent of Code input files
+*.txt
+.DS_Store
